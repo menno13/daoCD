@@ -1,7 +1,7 @@
 package DaoTest.dao;
 
 import java.sql.SQLException;
-
+//banaan
 public class DbManager {
 	OvChipkaartDaoImpl odao;
 	ReizigerOracleDaoImpl rdao;
